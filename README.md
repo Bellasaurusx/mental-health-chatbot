@@ -1,4 +1,5 @@
 🧠 Mental Health Support Chatbot
+
 A simple rule-based chatbot designed to provide emotional support based on user input. It responds with predefined messages to help users dealing with stress, anxiety, sadness, and more.
 
 📜 Project Overview
